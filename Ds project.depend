@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1669919191 source:c:\programmes\c\ds project\main.cpp
+	<iostream>
+	"Patient.h"
+	"List.h"
+
+1669918651 c:\programmes\c\ds project\patient.h
+	<iostream>
+	<string>
+
+1669914363 c:\programmes\c\ds project\list.h
+	<string>
+	"Patient.h"
+
